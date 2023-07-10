@@ -1,6 +1,7 @@
 baseURL: https://generalsafety.tecg/
 languageCode: en-us
 title: General Safety
+description: Stop arm cameras. Modernized.
 
 module:
   # uncomment line below for local development of module
