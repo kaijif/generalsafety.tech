@@ -8,7 +8,7 @@ sidebarlogo: logo
 # Kaiji Fu
 ### Founder, CEO, CTO, etc.
 
-<img src="/images/headshot1.jpg" alt="drawing" width="200"/>
+<img src="/images/headshot1.jpg" alt="kaiji fu" width="200"/>
 
 
 
