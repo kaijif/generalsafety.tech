@@ -145,7 +145,7 @@ params:
       text: Innocent until proven guilty, right?
       icon: cloud
   section3:
-    title: One platform
+    title: Sentry
     subtitle: To rule them all
     image: illustrations/mockups/app-mockup.png
     buttonText: Get started
