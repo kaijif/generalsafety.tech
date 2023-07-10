@@ -167,7 +167,7 @@ params:
       job: HR Manager
       img: 3
   section5:
-    title: Get a quote today
+    title: Inquire today
     subtitle: We'd love to hear from you
     buttonText: Send Message
     # action: https://formspree.io/f/<form_id>
