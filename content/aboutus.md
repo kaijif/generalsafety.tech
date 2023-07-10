@@ -5,4 +5,11 @@ draft: false
 sidebarlogo: logo
 ---
 
-# Hello world!
+# Kaiji Fu
+### Founder, CEO, CTO, etc.
+
+<img src="/images/headshot1.jpg" alt="drawing" width="200"/>
+
+
+
+> *Dang, that kid almost got ran over!*

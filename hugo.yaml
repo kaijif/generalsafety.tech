@@ -65,7 +65,7 @@ params:
   - title: Features
     url: /#section1
   - title: About us
-    url: /
+    url: /aboutus
   - title: Get a quote
     url: /#section5
   # - title: Dropdown
@@ -145,27 +145,27 @@ params:
       text: Innocent until proven guilty, right?
       icon: cloud
   section3:
-    title: Sentry
-    subtitle: To rule them all
+    title: Sentry Cloud
+    subtitle: See everything, everywhere, all at once.
     image: illustrations/mockups/app-mockup.png
     buttonText: Get started
     buttonLink: "#section5"
-  section4:
-    title: Our Clients love us!
-    subtitle: Lorem ipsum sit dolor amet is a dummy text used by typography industry
-    clients:
-    - name: Irma Walters
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: Accountant
-      img: 1
-    - name: John Bradley
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: Financial Analyst
-      img: 2
-    - name: Gary Blackman
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: HR Manager
-      img: 3
+  # section4:
+  #   title: Our Clients love us!
+  #   subtitle: Lorem ipsum sit dolor amet is a dummy text used by typography industry
+  #   clients:
+  #   - name: Irma Walters
+  #     quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+  #     job: Accountant
+  #     img: 1
+  #   - name: John Bradley
+  #     quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+  #     job: Financial Analyst
+  #     img: 2
+  #   - name: Gary Blackman
+  #     quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+  #     job: HR Manager
+  #     img: 3
   section5:
     title: Inquire today
     subtitle: We'd love to hear from you
@@ -190,36 +190,36 @@ params:
       icon: twitter
     - link: https://bitbucket.org/#
       icon: bitbucket
-    bulmalogo: true
-    quicklinks:
-      column1:
-        title: "Product"
-        links:
-        - text: Discover features
-          link: /
-        - text: Why choose our product?
-          link: /
-        - text: Compare features
-          link: /
-        - text: Our roadmap
-          link: /
-        - text: AGB
-          link: /agb
-      column2:
-        title: "Docs"
-        links:
-        - text: Get started
-          link: /
-        - text: User guides
-          link: /
-        - text: Admin guide
-          link: /
-        - text: Developers
-          link: /
-      column3:
-        title: "Blog"
-        links:
-        - text: Latest news
-          link: /blog/first
-        - text: Tech articles
-          link: /blog/second
+    bulmalogo: false
+    # quicklinks:
+    #   column1:
+    #     title: "Product"
+    #     links:
+    #     - text: Discover features
+    #       link: /
+    #     - text: Why choose our product?
+    #       link: /
+    #     - text: Compare features
+    #       link: /
+    #     - text: Our roadmap
+    #       link: /
+    #     - text: AGB
+    #       link: /agb
+    #   column2:
+    #     title: "Docs"
+    #     links:
+    #     - text: Get started
+    #       link: /
+    #     - text: User guides
+    #       link: /
+    #     - text: Admin guide
+    #       link: /
+    #     - text: Developers
+    #       link: /
+    #   column3:
+    #     title: "Blog"
+    #     links:
+    #     - text: Latest news
+    #       link: /blog/first
+    #     - text: Tech articles
+    #       link: /blog/second
