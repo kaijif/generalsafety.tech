@@ -6,11 +6,12 @@ sidebarlogo: logo
 description: About General Safety
 ---
 
+
+
 # Kaiji Fu
 ### Founder, CEO, CTO, etc.
 
 <img src="/images/headshot1.jpg" alt="kaiji fu" width="200"/>
 
-
-
 > *Dang, that kid almost got ran over!*
+

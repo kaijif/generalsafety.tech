@@ -2,9 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>General Safety</title>
-    <link>https://generalsafety.com/</link>
+    <link>https://generalsafety.tecg/</link>
     <description>Recent content on General Safety</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://generalsafety.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://generalsafety.tecg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Us</title>
+      <link>https://generalsafety.tecg/aboutus/</link>
+      <pubDate>Mon, 10 Jul 2023 11:42:44 -0400</pubDate>
+      
+      <guid>https://generalsafety.tecg/aboutus/</guid>
+      <description>Kaiji Fu Founder, CEO, CTO, etc. Dang, that kid almost got ran over!</description>
+    </item>
+    
   </channel>
 </rss>
