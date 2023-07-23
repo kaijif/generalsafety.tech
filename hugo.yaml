@@ -150,7 +150,7 @@ params:
   section3:
     title: Sentry Cloud
     subtitle: See everything, everywhere, all at once.
-    image: illustrations/mockups/app-mockup.png
+    image: cloud_screenshot.png
     buttonText: Get started
     buttonLink: "#section5"
   # section4:
@@ -182,17 +182,8 @@ params:
     socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
-    - link: https://github.com/lucperkins/github-fresh
-      # Icons are from Font Awesome
-      icon: github
-    - link: https://dribbble.com/#
-      icon: dribbble
-    - link: https://facebook.com/#
+    - link: https://www.facebook.com/profile.php?id=100094654086462
       icon: facebook
-    - link: https://twitter.com/lucperkins
-      icon: twitter
-    - link: https://bitbucket.org/#
-      icon: bitbucket
     bulmalogo: false
     # quicklinks:
     #   column1:
