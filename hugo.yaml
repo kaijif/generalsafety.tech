@@ -67,10 +67,10 @@ params:
     url: /#section1
   - title: About us
     url: /aboutus
-  - title: Sign in
-    url: https://app.generalsafety.tech/
   - title: Get a quote
     url: /#section5
+  - title: Sign in
+    url: https://app.generalsafety.tech/
   # - title: Dropdown
   #   sublinks:
   #   - title: Dropdown item
