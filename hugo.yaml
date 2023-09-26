@@ -65,8 +65,8 @@ params:
   navbar:
   - title: Features
     url: /#section1
-  - title: About us
-    url: /aboutus
+  # - title: About us
+  #   url: /aboutus
   - title: Get a quote
     url: /#section5
   - title: Sign in
